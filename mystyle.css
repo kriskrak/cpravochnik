@@ -1,0 +1,43 @@
+body {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+    color: FloralWhite;
+    background-image:url("фон5.jpg") }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+color: FloralWhite }
+  h4 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+color: FloralWhite }
+  span {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+color: Crimson }
+ h3 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+color: FloralWhite }
+ font size="8" {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+color: FloralWhite }
+ a {
+   border-radius: 10px;
+   color:MidnightBlue;
+   background: DarkGray;
+ 
+   box-shadow: 2px 2px 3px black;
+text-decoration: none;
+}
+a:hover {
+background: -webkit-linear-gradient(bottom, #A4D3E0, #A4D3E0 50%, #CBE3EB 50%);
+   background:YellowGreen;
+text-decoration: underline 
+}
+a:active {
+  background: -webkit-linear-gradient(bottom, #A4D3E0, #A4D3E0 50%, #CBE3EB 50%);
+   background:BlanchedAlmond;
+  
+}
